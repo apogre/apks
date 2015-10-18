@@ -14,7 +14,7 @@ import module.graph.helper.JAWSutility;
 public class Convert {
 	
 	//private ArrayList<String> test = new ArrayList();
-	
+	/*
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         SentenceToGraph s= new SentenceToGraph();
@@ -28,7 +28,7 @@ public class Convert {
     		}
         
         
-    }
+    }*/
     
     public static GraphPassingNode convert(GraphPassingNode gpn, String lang){
     	ArrayList<String> transAspGraph = new ArrayList<String>();
